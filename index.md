@@ -20,7 +20,6 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - Exploring Multi-Stage Optimization for More Semantically Accurate Medical Report Generation. At the Third SMBU-BIT-MSU  Young Scholars Seminar on Machine Intelligence (Oral presentation)
 - Article about Enhancing Abnormal Features for Medical Report Generation. Submitted to 2025 IEEE International Conference on Multimedia & Expo (CCF-B Conference)
 - Article about Multi-modal Encoding and Alignment for Medical Report Generation. Submitted to 2025 IEEE International  Conference on Multimedia & Expo (CCF-B Conference)
-- Article about Dynamic Memory Bank for Medical Report Generation. Submitted to Pattern Recognition  Letters (CCF-C/SCI-Q2 Area Journal in submission, second author)
 
 ## Project Experience
 ### Instant Messaging Software
