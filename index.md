@@ -8,18 +8,18 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Postgraduate recommendation** 
 - **Research interests:** Large Language Model, Multimodal learning & Medical Image Processing **(Beijing Key Lab of Intelligent Information Technology)**
 - **Major:** Computer Science and Technology
-- **Duration:** September 2023 - Present
+- **Duration:** 2023.09 - 2026.06 (expected)
 
 ### Bachelor’s Degree, Beijing Institute of Technology
 - **Major:** Computer Science and Technology
-- **Duration:** September 2019 - June 2023
+- **Duration:** 2019.09 - 2023.06
 - **MIT Online Project:** Computer Vision, A level
   
 ## Selected Pub:
 - Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Haoquan Chen, Bin Yan and Mingtao Pei, accepted by the 2024 International Conference on Intelligent Computing (CCF-C, Oral, **Oral Session Chair**).
-- Exploring Multi-Stage Optimization for More Semantically Accurate Medical Report Generation. At the Third SMBU-BIT-MSU  Young Scholars Seminar on Machine Intelligence (Oral presentation)
 - Article about Enhancing Abnormal Features for Medical Report Generation. Submitted to 2025 IEEE International Conference on Multimedia & Expo (CCF-B Conference)
 - Article about Multi-modal Encoding and Alignment for Medical Report Generation. Submitted to 2025 IEEE International  Conference on Multimedia & Expo (CCF-B Conference)
+- Article about Phrase-Level Template and Dynamic Memory Bank for Medical Report Generation. Submitted to 2025 International Joint Conference on Neural Networks (CCF-C Conference)
 
 ## Project Experience
 
@@ -29,11 +29,11 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Technical stack:** Tech stack includes Pytorch with the framework using ResNet+Transformer
 - **Outcome:** In the test scenario, it can be put into use in real time, and the identity accuracy rate is above 95%
 
-### Intelligent agricultural robotssikao
+### Intelligent agricultural robot
 - **Project description::** School-enterprise cooperation for agricultural robots, which can locate, classify, and laser crops
 - **Division of labor:** Develop the framework code, implement post-processing for detection results, matching, and metric computation functions. Conduct hyperparameter tuning and design a multi-model voting mechanism.
 - **Technical stack:** Tech stack includes OpenCV and Pytorch, with the detection framework using YOLO
-- **Outcome:** Reduce false negative rate (FNR) by 15% and false positive rate (FPR) by 30% in testing scenarios
+- **Outcome:** Reduce false negative rate (FNR) by 15% and false positive rate (FPR) by 30% in real world testing scenarios
 
 ## Skills
 - **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
