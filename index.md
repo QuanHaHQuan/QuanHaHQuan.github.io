@@ -21,28 +21,30 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - Article about Multi-modal Encoding and Alignment for Medical Report Generation. Submitted to 2025 IEEE International  Conference on Multimedia & Expo (CCF-B Conference)
 - Article about Phrase-Level Template and Dynamic Memory Bank for Medical Report Generation. Submitted to 2025 International Joint Conference on Neural Networks (CCF-C Conference)
 
+## Working Experience
+
+### DENSO (China), Algorithm Research Group (Intern)
+- Passenger Status Detection (2024.08-2024.11)
+- Built a high-quality training dataset collection pipeline based on real-world vehicle front camera data, utilizing SAM2 for automatic annotation and introducing temporal optimization.
+- Contributed to the development of specific functions in the intelligent cabin system by designing and improving a detection process based on DETR, monitoring the number of occupants and their status inside the vehicle.
+- **Achieved an Avg F1-score of 0.983+ for seat-belt status classification and an R2-score of 0.929+ for facial angle regression on real world dataset.**
+
 ## Project Experience
 
 ### Fast Reception Robot Based on Deep Learning
 - **Project description:** In cooperation with Beijing Jishuitan Hospital (Beijing Nature Foundation -7222086), to realize an admission system integrating identity recognition, language conversion and data interaction
 - **Division of labor:** Coordinate personnel cooperation and project progress, write the code of the basic framework
-- **Technical stack:** Tech stack includes Pytorch with the framework using ResNet+Transformer
 - **Outcome:** In the test scenario, it can be put into use in real time, and the identity accuracy rate is above 95%
 
 ### Intelligent agricultural robot
 - **Project description::** School-enterprise cooperation for agricultural robots, which can locate, classify, and laser crops
 - **Division of labor:** Develop the framework code, implement post-processing for detection results, matching, and metric computation functions. Conduct hyperparameter tuning and design a multi-model voting mechanism.
-- **Technical stack:** Tech stack includes OpenCV and Pytorch, with the detection framework using YOLO
 - **Outcome:** Reduce false negative rate (FNR) by 15% and false positive rate (FPR) by 30% in real world testing scenarios
 
 ## Skills
 - **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
 - **Tools and Technologies:** Linux Programming, Git, Latex/Markdown, MS Office, Google Workspace
 - **Tech blog:** [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
-- **Knowledge:**
-  * Familiar with classical machine learning models (SVM/RF/XGBoost, etc.), mainstream CV/NLP models (ViT/BERT/CLIP, etc.)
-  * Large language models (LLM) and fine-tuning (GPT/llama/RAG/LoRa, etc.)
-  * Understanding of cloud platforms (Colab/Autodl/Azure), containers (Docker/Kubernetes), and Spark/Hadoop
 
 ## Contact
 - **Email:** haoquan.chen724@gmail.com
