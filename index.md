@@ -21,7 +21,7 @@ I possess solid theoretical knowledge and practical experience in computer visio
 ## Working Experience
 
 ### 01.AI, Multimodal Algorithm (Intern)
-- Digital Human Matting (2024.11-2025.02)
+- Digtial Human Matting (Digtial human group, 2024.11-2025.02)
 - a) Project Implementation - **Digital Human Video Matting**:
   - Built an internal real-world dataset and reproduced mainstream algorithms in the industry (MaGGIe/RVM/RMBG/BiRefNet, etc.), selecting solutions based on usage scenarios. Identified limitations in current algorithms, such as their inability to consider video temporal constraints or handle complex backgrounds.
   - To address these challenges, introduced efficient fine-grained segmentation with temporal information through Textual Guided Video Segmentation, further optimizing the prediction results of the RMBG model.
@@ -29,7 +29,7 @@ I possess solid theoretical knowledge and practical experience in computer visio
 
 
 ### DENSO (China),Deep Learning Algorithm (Intern)
-- Passenger Status Detection (2024.08-2024.11)
+- Passenger Status Detection (Algorithm Study Group, 2024.08-2024.11)
 - a) Research and Development:
   - Conducted research and reproduction of mainstream algorithms (HintAD/VAD/UniAD/Motion Transformer, etc.), with evaluations of usage scenarios and business applicability
 - b) Project Implementation - **Intelligent Cabin Detection**:
