@@ -23,9 +23,9 @@ I possess solid theoretical knowledge and practical experience in computer visio
 ### 01.AI, Multimodal Algorithm (Intern)
 - Digtial Human Matting (Digtial human group, 2024.11-2025.02)
 - a) Project Implementation - **Digital Human Video Matting**:
-- Built an internal real-world dataset and reproduced mainstream algorithms (MaGGIe/RVM/RMBG/BiRefNet, etc.), selecting solutions based on usage scenarios. Identified limitations in current algorithms, such as their inability to consider video temporal constraints or handle complex backgrounds.
-- To address these challenges, introduced efficient fine-grained segmentation with temporal information through Textual Guided Video Segmentation, further optimizing the prediction results of RMBG model.
-- **This optimization corrected more than 95% of the errors in previously identified Bad Cases for the RMBG model, improved the overall prediction quality by approximately 10% on an internally constructed real-world dataset**, significantly enhancing the model’s robustness for practical applications. 
+  - Built an internal real-world dataset and reproduced mainstream algorithms (MaGGIe/RVM/RMBG/BiRefNet, etc.), selecting solutions based on usage scenarios. Identified limitations in current algorithms, such as their inability to consider video temporal constraints or handle complex backgrounds.
+  - To address these challenges, introduced efficient fine-grained segmentation with temporal information through Textual Guided Video Segmentation, further optimizing the prediction results of RMBG model.
+  - **This optimization corrected more than 95% of the errors in previously identified Bad Cases for the RMBG model, improved the overall prediction quality by approximately 10% on an internally constructed real-world dataset**, significantly enhancing the model’s robustness for practical applications. 
 
 
 ### DENSO (China),Deep Learning Algorithm (Intern)
