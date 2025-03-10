@@ -17,9 +17,6 @@ I possess solid theoretical knowledge and practical experience in computer visio
   
 ## Selected Pub:
 - Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Haoquan Chen, Bin Yan and Mingtao Pei, accepted by the 2024 International Conference on Intelligent Computing (CCF-C, Oral, **Oral Session Chair**).
-- Article about Enhancing Abnormal Features for Medical Report Generation. Submitted to 2025 IEEE International Conference on Multimedia & Expo (CCF-B Conference)
-- Article about Multi-modal Encoding and Alignment for Medical Report Generation. Submitted to 2025 IEEE International  Conference on Multimedia & Expo (CCF-B Conference)
-- Article about Phrase-Level Template and Dynamic Memory Bank for Medical Report Generation. Submitted to 2025 International Joint Conference on Neural Networks (CCF-C Conference)
 
 ## Working Experience
 
