@@ -20,21 +20,21 @@ I possess solid theoretical knowledge and practical experience in computer visio
 
 ## Working Experience
 
-### 01.AI, Digital Human Products and Technology Division (Intern)
-a) Research and Development:
-- Conducted research and reproduction of mainstream algorithms (HintAD/VAD/UniAD/Motion Transformer, etc.), with evaluations of usage scenarios and business applicability
-
-- Built a high-quality training dataset collection pipeline based on real-world vehicle front camera data, utilizing SAM2 for automatic annotation and introducing temporal optimization
-- Contributed to the development of specific functions in the intelligent cabin system by designing and improving a detection process based on DETR, monitoring the number of occupants and their status inside the vehicle. Achieved an Avg F1-score of 0.983+ for seatbelt status classification and an R2-score of 0.929+ for facial angle regression
+### 01.AI, Multimodal Algorithm (Intern)
+- Digital Human Matting (2024.11-2025.02)
+- a) Project Implementation - **Digital Human Video Matting**:
+  - Built an internal real-world dataset and reproduced mainstream algorithms in the industry (MaGGIe/RVM/RMBG/BiRefNet, etc.), selecting solutions based on usage scenarios. Identified limitations in current algorithms, such as their inability to consider video temporal constraints or handle complex backgrounds.
+  - To address these challenges, introduced efficient fine-grained segmentation with temporal information through Textual Guided Video Segmentation, further optimizing the prediction results of the RMBG model.
+  - The solution is capable of handling complex backgrounds in practical applications and effectively avoids abrupt changes between frames. The outcomes have been encapsulated and applied to real-world development scenarios
 
 
 ### DENSO (China),Deep Learning Algorithm (Intern)
 - Passenger Status Detection (2024.08-2024.11)
 - a) Research and Development:
   - Conducted research and reproduction of mainstream algorithms (HintAD/VAD/UniAD/Motion Transformer, etc.), with evaluations of usage scenarios and business applicability
-- b) Project Implementation - Intelligent Cabin Detection:
+- b) Project Implementation - **Intelligent Cabin Detection**:
   - Built a high-quality training dataset collection pipeline based on real-world vehicle front camera data, utilizing SAM2 for automatic annotation and introducing temporal optimization
-  - Contributed to the development of specific functions in the intelligent cabin system by designing and improving a detection process based on DETR, monitoring the number of occupants and their status inside the vehicle. Achieved an Avg F1-score of 0.983+ for seatbelt status classification and an R2-score of 0.929+ for facial angle regression
+  - Contributed to the development of specific functions in the intelligent cabin system by designing and improving a detection process based on DETR, monitoring the number of occupants and their status inside the vehicle. **Achieved an Avg F1-score of 0.983+ for seatbelt status classification and an R2-score of 0.929+ for facial angle regression**
 
 
 ## Project Experience
