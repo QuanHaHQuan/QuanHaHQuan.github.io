@@ -21,9 +21,8 @@ I possess solid theoretical knowledge and practical experience in computer visio
 ## Working Experience
 
 ### 01.AI, Digital Human Products and Technology Division (Intern)
-Job Description:
-a) Research and Development:
-Conducted research and reproduction of mainstream algorithms (HintAD/VAD/UniAD/Motion Transformer, etc.), with evaluations of usage scenarios and business applicability
+- a) Research and Development:
+- - Conducted research and reproduction of mainstream algorithms (HintAD/VAD/UniAD/Motion Transformer, etc.), with evaluations of usage scenarios and business applicability
 b) Project Implementation - Intelligent Cabin Detection:
 Built a high-quality training dataset collection pipeline based on real-world vehicle front camera data, utilizing SAM2 for automatic annotation and introducing temporal optimization
 Contributed to the development of specific functions in the intelligent cabin system by designing and improving a detection process based on DETR, monitoring the number of occupants and their status inside the vehicle. Achieved an Avg F1-score of 0.983+ for seatbelt status classification and an R2-score of 0.929+ for facial angle regression
