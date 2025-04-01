@@ -15,14 +15,14 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Duration:** 2019.09 - 2023.06
   
 ## Publications:
-- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Haoquan Chen, Bin Yan and Mingtao Pei, accepted by the 2024 International Conference on Intelligent Computing (CCF-C, Oral, **Oral Session Chair**).
+- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Haoquan Chen, Bin Yan and Mingtao Pei, accepted by the 2024 International Conference on Intelligent Computing (CCF-C, Oral, **Session Chair**).
 
 ## Working Experience
 
 ### 01.AI, Multimodal Algorithm (Intern)
 - Digtial Human Matting (Digtial human group, 2024.11-2025.02)
 
-### DENSO (China),Deep Learning Algorithm (Intern)
+### DENSO (China), Deep Learning Algorithm (Intern)
 - Passenger Status Detection (Algorithm study group, 2024.08-2024.11)
 
 ## Skills
