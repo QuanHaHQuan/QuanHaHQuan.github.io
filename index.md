@@ -20,10 +20,12 @@ I possess solid theoretical knowledge and practical experience in computer visio
 ## Working Experience
 
 ### 01.AI, Multimodal Algorithm (Intern)
-- Digtial Human Matting (Digtial human group, 2024.11-2025.02)
+- Digtial human group, 2024.11-2025.02
+- Digtial Human Matting 
 
 ### DENSO (China), Deep Learning Algorithm (Intern)
-- Passenger Status Detection (Algorithm study group, 2024.08-2024.11)
+- Algorithm study group, 2024.08-2024.11
+- Passenger Status Detection
 
 ## Skills
 - **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
