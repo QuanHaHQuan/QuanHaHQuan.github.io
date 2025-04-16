@@ -15,8 +15,8 @@ I possess solid theoretical knowledge and practical experience in computer visio
 - **Duration:** 2019.09 - 2023.06
   
 ## Publications:
-- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Haoquan Chen, Bin Yan and Mingtao Pei, accepted by the 2024 International Conference on Intelligent Computing (Oral, **Session Chair**).
-- Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank. Haoquan Chen, Bin Yan, Hongyu Shen, and Mingtao Pei, accepted by the 2025 International Joint Conference on Neural Networks.
+- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted by the 2024 International Conference on Intelligent Computing (ICIC, Oral, **Session Chair**).
+- Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank. Accepted by the 2025 International Joint Conference on Neural Networks (IJCNN).
 
 ## Working Experience
 
