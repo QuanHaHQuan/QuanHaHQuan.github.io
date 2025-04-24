@@ -1,7 +1,5 @@
 ## Intro
-I am a second-year Computer Science and Technology graduate student at Beijing Institute of Technology. Throughout my academic journey, I have been awarded multiple scholarships and recognized as an Outstanding Student at BIT. 
-
-I possess solid theoretical knowledge and practical experience in computer vision (CV) and natural language processing (NLP). I am comfortable working in an English-speaking environment and have multiple previous experiences. I am an optimistic individual with excellent communication skills, a strong aptitude for learning, self-motivation, adaptability, and resilience under pressure.
+I am a second-year Computer Science and Technology graduate student at Beijing Institute of Technology. I used to intern at Denso (China) and 01.AI for *deep learning & multi-modal* learning algorithms. 
 
 ## Educational Background
 ### Master’s Degree, Beijing Institute of Technology
