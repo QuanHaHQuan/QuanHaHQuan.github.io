@@ -4,7 +4,7 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 ## Educational Background
 ### Master’s Degree, Beijing Institute of Technology
 - **Postgraduate recommendation** 
-- **Research interests:** Large Language Model, Multimodal learning & Medical Image Processing **(Beijing Key Lab of Intelligent Information Technology)**
+- **Research interests:** Multimodal learning & Medical Image Processing **(Beijing Key Lab of Intelligent Information Technology)**
 - **Major:** Computer Science and Technology
 - **Duration:** 2023.09 - 2026.06 (expected)
 
