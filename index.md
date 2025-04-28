@@ -1,5 +1,5 @@
 ## Intro
-I am a second-year Computer Science and Technology graduate student at Beijing Institute of Technology, supervised by Prof. Mingtao Pei at MCIS Lab. I used to intern at Denso (China) and 01.AI for *deep learning & multi-modal* learning algorithms and gained strong experience in CV, NLP, MLLM. 
+I am a second-year Computer Science and Technology graduate student at Beijing Institute of Technology, supervised by Prof. [Mingtao Pei] (https://peimingtao.github.io/index.html) at MCIS Lab. I used to intern at Denso (China) and 01.AI for *deep learning & multi-modal learning* algorithms and gained strong experience in CV, NLP, MLLM. 
 
 ## Educational Background
 ### Master’s Degree, Beijing Institute of Technology
