@@ -4,7 +4,7 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 ## Educational Background
 ### Master’s Degree, Beijing Institute of Technology
 - **Postgraduate recommendation** 
-- **Research interests:** Multimodal learning & Medical Image Processing **(Beijing Key Lab of Intelligent Information Technology)**
+- **Research interests:** Multimodal learning & Medical Image Processing
 - **Major:** Computer Science and Technology
 - **Duration:** 2023.09 - 2026.06 (expected)
 
@@ -20,7 +20,7 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 
 ### 01.AI, Multimodal Algorithm (Intern)
 - Digtial human group, 2024.11-2025.02
-- Digtial Human Matting 
+- Real-Scene Human Matting 
 
 ### DENSO (China), Deep Learning Algorithm (Intern)
 - Algorithm study group, 2024.08-2024.11
