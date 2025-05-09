@@ -20,15 +20,18 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 
 ### TeleAI, Visual Foundation Models (Intern)
 - 2025.05-present
-- **Visual Content Understanding Department**: *Multi-task Visual Foundation Model* 
+- **Visual Content Understanding Department**
+- *Multi-task Visual Foundation Model* 
 
 ### 01.AI, Multimodal Algorithm (Intern)
 - 2024.11-2025.02
-- **Digtial Human Production & Technology Department**: *Real-Scene Human Matting* 
+- **Digtial Human Production & Technology Department**
+- *Textual-info Guided Real-Scene Human Matting* 
 
 ### DENSO (China), Deep Learning Algorithm (Intern)
 - 2024.08-2024.11
-- **AI Algorithm Study Department**: *Autonoums Driving Pre-study* & *Passenger Status Detection*
+- **AI Algorithm Study Department**
+- *Autonoums Driving Pre-study* & *Passenger Status Detection*
 
 ## Skills
 - **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
