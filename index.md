@@ -19,12 +19,12 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 ## Working Experience
 
 ### 01.AI, Multimodal Algorithm (Intern)
-- Digtial human group, 2024.11-2025.02
-- Real-Scene Human Matting 
+- 2024.11-2025.02
+- **Digtial human group**: *Real-Scene Human Matting* 
 
 ### DENSO (China), Deep Learning Algorithm (Intern)
-- Algorithm study group, 2024.08-2024.11
-- Passenger Status Detection
+- 2024.08-2024.11
+- **Algorithm study groupz**: *Autonoums Driving Pre-study* & *Passenger Status Detection*
 
 ## Skills
 - **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
