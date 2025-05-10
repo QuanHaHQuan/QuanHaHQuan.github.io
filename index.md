@@ -18,10 +18,10 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 
 ## Working Experience
 
-### TeleAI, Visual Foundation Models (Intern)
+### TeleAI, Visual (Multimodal) Foundation Models (Intern)
 - 2025.05-present
 - **Visual Content Understanding Department**
-- *Multi-task Visual Foundation Model* 
+- *Multi-task Visual (Multimodal) Foundation Model* 
 
 ### 01.AI, Multimodal Algorithm (Intern)
 - 2024.11-2025.02
