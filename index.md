@@ -16,19 +16,19 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 - Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted by the 2024 International Conference on Intelligent Computing (ICIC, Oral, **Session Chair**).
 - Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank. Accepted by the 2025 International Joint Conference on Neural Networks (IJCNN).
 
-## Working Experience
+## Internship Experience
 
-### TeleAI, Visual (Multimodal) Foundation Models (Intern)
+### TeleAI, Visual (Multimodal) Foundation Models
 - 2025.05-present
 - **Visual Content Understanding Department**
 - *Multi-task Visual (Multimodal) Foundation Model* 
 
-### 01.AI, Multimodal Algorithm (Intern)
+### 01.AI, Multimodal Algorithm
 - 2024.11-2025.02
 - **Digtial Human Production & Technology Department**
 - *Textual-info Guided Real-Scene Human Matting* 
 
-### DENSO (China), Deep Learning Algorithm (Intern)
+### DENSO (China), Deep Learning Algorithm
 - 2024.08-2024.11
 - **AI Algorithm Study Department**
 - *Autonoums Driving Pre-study* & *Passenger Status Detection*
