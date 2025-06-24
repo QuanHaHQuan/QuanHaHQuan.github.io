@@ -19,12 +19,12 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 ## Internship Experience
 
 ### TeleAI, Visual Foundation Model Algorithm
-- 2025.05-present
+- 2025.05-2025.06
 - **Visual Content Understanding Department**
 - *Unified Visual Foundation Model* 
 
 ### 01.AI, Multimodal Algorithm
-- 2024.11-2025.02
+- 2024.11-2025.03
 - **Digtial Human Production & Technology Department**
 - *Textual-info Guided Real-Scene Human Matting* 
 
@@ -35,7 +35,7 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 
 ## Skills
 - **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
-- **Tools and Technologies:** Linux Programming, Git, Latex/Markdown, MS Office, Google Workspace
+- **Tools and Technologies:** Linux Programming, Git, LaTeX/Markdown, MS Office, Google Workspace
 - **Tech blog:** [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
 
 ## Contact
