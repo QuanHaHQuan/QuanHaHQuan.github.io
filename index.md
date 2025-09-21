@@ -3,7 +3,6 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 
 ## Educational Background
 ### Master’s Degree, Beijing Institute of Technology
-- **Postgraduate recommendation** 
 - **Research interests:** Multimodal learning & Medical Image Processing
 - **Major:** Computer Science and Technology
 - **Duration:** 2023.09 - 2026.06 (expected)
@@ -13,10 +12,10 @@ I am a second-year Computer Science and Technology graduate student at Beijing I
 - **Duration:** 2019.09 - 2023.06
   
 ## Publications:
-- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Accepted by the 2024 International Conference on Intelligent Computing (ICIC, Oral, Session Chair).
-- Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank. Accepted by the 2025 International Joint Conference on Neural Networks (IJCNN, Oral, Student Travel Grant).
-- Align Modalities: Advancing Medical Report Generation with Unified Encoder and Inter-Case Contrastive Learning. Accepted by the 2025 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC, Oral).
-- Focusing on Abnormal: Visual Contrastive Classification and Semantic Enhancement for Medical Report Generation. Accepted by the 2025 International Conference on Neural Information Processing (ICONIP).
+- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. 2024 International Conference on Intelligent Computing (ICIC, Oral).
+- Retrieval from Dynamic Phrases: Generating Radiograph Reports with Phrase-Level Template and Dynamic Memory Bank. 2025 International Joint Conference on Neural Networks (IJCNN, Oral).
+- Align Modalities: Advancing Medical Report Generation with Unified Encoder and Inter-Case Contrastive Learning. 2025 IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC, Oral).
+- Focusing on Abnormal: Visual Contrastive Classification and Semantic Enhancement for Medical Report Generation. 2025 International Conference on Neural Information Processing (ICONIP).
 
 ## Internship Experience
 
