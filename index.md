@@ -20,19 +20,19 @@ I am a third-year master student in Computer Science and Technology at Beijing I
 ## Internship Experience
 
 ### TeleAI, Visual Foundation Model Algorithm
-- 2025.05-2025.06
 - **Visual Content Understanding Department**
-- *Unified Visual Foundation Model* 
+- *Unified Visual Foundation Model*
+- 2025.05-2025.06
 
 ### 01.AI, Multimodal Algorithm
-- 2024.11-2025.02
 - **Digtial Human Production & Technology Department**
-- *Textual-info Guided Real-Scene Human Matting* 
+- *Textual-info Guided Real-Scene Human Matting*
+- 2024.11-2025.02
 
 ### DENSO (China), Deep Learning Algorithm
-- 2024.08-2024.11
 - **AI Algorithm Study Department**
 - *Autonoums Driving Pre-study* & *Passenger Status Detection*
+- 2024.08-2024.11
 
 ## Skills
 - **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
