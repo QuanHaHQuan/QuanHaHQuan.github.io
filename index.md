@@ -8,7 +8,7 @@ I am a third-year master student in Computer Science and Technology at Beijing I
 - 2023-2026
 
 ### BSc in Computer Science and Technology
-- Xuteli College, Honors College, Beijing Institute of Technology, P.R.China
+- Xuteli College(Honors College), Beijing Institute of Technology, P.R.China
 - 2019-2023
   
 ## Publications:
