@@ -3,7 +3,7 @@ I am a third-year Computer Science and Technology graduate student at Beijing In
 
 ## Educational Background
 ### MSc in Computer Science and Technology
-- Beijing Key Lab of Intelligent Information Technology, supervisor: Prof. Mingtao Pei
+- Beijing Key Lab of Intelligent Information Technology
 - College of Computer Science, Beijing Institute of Technology, P.R.China
 - 2023-2026
 
