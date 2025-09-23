@@ -1,5 +1,5 @@
 ## Intro
-I am a third-year master student in Computer Science and Technology at Beijing Institute of Technology, supervised by Prof. [Mingtao Pei](https://peimingtao.github.io/index.html) at MCIS Lab. I used to intern at Denso (China), 01.AI, and TeleAI for *multi-modal & visual related* algorithms and gained strong experience in CV, NLP, LLM. 
+I am a third-year master student in Computer Science and Technology at Beijing Institute of Technology, supervised by Prof. [Mingtao Pei](https://peimingtao.github.io/index.html). I used to intern at Denso (China), 01.AI, and TeleAI for *multi-modal & visual related* algorithms and gained strong experience in CV, NLP, LLM. 
 
 ## Educational Background
 ### MSc in Computer Science and Technology
