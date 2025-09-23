@@ -1,5 +1,5 @@
 ## Intro
-I am a third-year master student in Computer Science and Technology at Beijing Institute of Technology, supervised by Prof. [Mingtao Pei](https://peimingtao.github.io/index.html). I used to intern at Denso (China), 01.AI, and TeleAI for *multi-modal & visual related* algorithms. 
+I am a third-year master student in Computer Science and Technology at Beijing Institute of Technology, supervised by Prof. [Mingtao Pei](https://peimingtao.github.io/index.html). I used to intern at [Denso (China)](https://www.denso.com/cn/zh/about-us/company-information/dich/), [01.AI](https://www.01.ai/), and [TeleAI](https://www.chinatelecom.com.cn/) for *multi-modal & visual related* algorithms. 
 
 ## Educational Background
 ### MSc in Computer Science and Technology
