@@ -2,14 +2,14 @@
 I am a third-year Computer Science and Technology graduate student at Beijing Institute of Technology, supervised by Prof. [Mingtao Pei](https://peimingtao.github.io/index.html) at MCIS Lab. I used to intern at Denso (China), 01.AI, and TeleAI for *multi-modal & visual related* algorithms and gained strong experience in CV, NLP, LLM. 
 
 ## Educational Background
-### Master’s Degree, Beijing Institute of Technology
-- **Research interests:** Multimodal learning & Medical Image Processing
-- **Major:** Computer Science and Technology
-- **Duration:** 2023.09 - 2026.06 (expected)
+### MSc in Computer Science and Technology
+- Beijing Key Lab of Intelligent Information Technology, College of Computer Science, Beijing Institute of Technology, P.R.China
+- Supervisor: Prof. Mingtao Pei
+- 2023-2026
 
-### Bachelor’s Degree, Beijing Institute of Technology
-- **Major:** Computer Science and Technology
-- **Duration:** 2019.09 - 2023.06
+### BSc in Computer Science and Technology
+- Xuteli College, Honors College, Beijing Institute of Technology, P.R.China
+- 2019-2023
   
 ## Publications:
 - Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. 2024 International Conference on Intelligent Computing (ICIC, Oral).
