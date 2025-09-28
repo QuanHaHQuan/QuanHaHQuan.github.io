@@ -4,11 +4,13 @@ I am a third-year master student in Computer Science and Technology at Beijing I
 ## Educational Background
 ### MSc in Computer Science and Technology
 - **Beijing Key Lab of Intelligent Information Technology**
-- College of Computer Science, Beijing Institute of Technology, P.R.China
+- College of Computer Science
+- Beijing Institute of Technology, P.R.China
 - 2023-2026
 
 ### BSc in Computer Science and Technology
-- Xuteli College(Honors College), Beijing Institute of Technology, P.R.China
+- Xuteli College(Honors College)
+- Beijing Institute of Technology, P.R.China
 - 2019-2023
   
 ## Publications:
